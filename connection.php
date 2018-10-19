@@ -1,5 +1,5 @@
 <?php
-$hash = 'Pr4k2wq^iJrNAaDqvK39)&HnKxmzCI$';
+$hash = '1S2#4646¨$*54645*#$%074852¨256&*(54654)645654_+04';
 date_default_timezone_set("America/Sao_Paulo");
 $conexao  = mysqli_connect("localhost","root","","r6club");
 $utf      = mysqli_query($conexao,"SET NAMES 'utf8'");
